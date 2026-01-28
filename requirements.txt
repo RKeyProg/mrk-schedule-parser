@@ -1,0 +1,3 @@
+aiogram
+pdfplumber
+python-dotenv
